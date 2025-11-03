@@ -1,0 +1,11 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Virtual env
+.venv/
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
